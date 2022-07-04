@@ -1,12 +1,19 @@
 {
-  "users":[{
-    "id": 1,
-    "name": "Roger Franco",
-    "email": "roger@roger.com"
-  },
-  {
-    "id": 2,
-    "name": "Juan Perez",
-    "email": "thu@thu.com"
-  }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Roger Franco",
+      "email": "roger@roger.com"
+    },
+    {
+      "id": 2,
+      "name": "Juan Perez",
+      "email": "thu@thu.com"
+    },
+    {
+      "name": "roger",
+      "email": "rogerfrancogalt@gmail.com",
+      "id": 3
+    }
+  ]
 }
